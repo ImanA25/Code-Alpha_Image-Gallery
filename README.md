@@ -16,7 +16,8 @@ Multiple Categories:
   Food 🍔
   Animals 🐾
 
- 🛠️ Technologies Used
+ 🛠️ Technologies Used:
+
  HTML5 – Structure of the gallery
  CSS3 – Styling and responsive layout
  JavaScript - Dynamic filtering functionality
